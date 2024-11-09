@@ -1,4 +1,4 @@
-This is the academy's project: Using ReFramework
+This is the academy's project (calculate client securit has): Using ReFramework
 
 Opening the ACME website, loging in, navigating to the workItems, filtering them based on item Type.
 
